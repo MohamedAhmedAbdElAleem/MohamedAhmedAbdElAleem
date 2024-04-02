@@ -9,6 +9,7 @@
 - :school: I am a `Semi Senior ` at [College of Computing &Information Technology](https://web.facebook.com/AAST.CCIT.ASWAN) at [Arab Academy for Science, Technology and Maritime Transport](https://aast.edu/en/).
 - :I am a Vice Leader [ICPC AAST Aswan Community ](https://web.facebook.com/profile.php?id=100089626076390)
 - :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I Love Learning About CyberSecurity.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
