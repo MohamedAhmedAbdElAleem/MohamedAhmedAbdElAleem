@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed Abd El-Aleem </h1>
 <h3 align="center">Software Engineer</h3>	
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5% style="text-align: center;"> About me
+<img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="display: block; margin: 0 auto;" width="6.5%" alt="About me">
+<b>About Me</b>
 
 
 <br><br>
